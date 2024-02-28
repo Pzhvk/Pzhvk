@@ -1,3 +1,4 @@
 Currently Intersted In Front End Developing.
-Working With Javascript, CSS, HTML Right Now.
+Currently Learning React.
+Professionally Working With C#, Java.
 Fact : Pzhvk Is Short For "Pazhvak" Which Means "Echo" In English.
